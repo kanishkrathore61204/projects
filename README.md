@@ -1,4 +1,4 @@
-for the file working code_iiitdelhi (ongoing RA work with Prof. Gaurav Arora) results cannot be shared owing to confidentiality concerns.
+for the file working code_iiitdelhi (ongoing RA work with Prof. Gaurav Arora) results cannot be shared but a sample file has been uploaded in the folder apmc price transmission
 however, markowitz theory_cis contains files which have both code and the output generated (including data)
 
 ## Data Sources
